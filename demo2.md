@@ -28,7 +28,7 @@ _ 内部链接2，链接本文档的其他位置：[代码块](demo2.md#代码�
 ## 图片的引用式链接：
   
 - 外部图片 demo  
-![baidu][baidu_logo]  
+![baidu_logo]  
 - 仓库内的图片 demo  
 ![屏幕截图]  
 
