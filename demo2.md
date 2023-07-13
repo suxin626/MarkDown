@@ -23,7 +23,11 @@ _ 内部链接2，链接本文档的其他位置：[代码块](demo2.md#代码�
 - 外部图片 demo  
 ![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png  "百度网站")
 - 仓库内的图片 demo  
-![](images/112613.png)
+![](images/112613.png)  
+
+![](images/chapt3_img01_IDE_Installation.webp)  
+
+
 
 ## 图片的引用式链接：
   
