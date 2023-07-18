@@ -24,8 +24,8 @@ _ 内部链接2，链接本文档的其他位置：[代码块](demo2.md#代码�
 ![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png  "百度网站")
 - 仓库内的图片 demo  
 
-![](images/chapt3_img01_IDE_Installation.webp)  
-![](images/112613.png)  
+![](D:\Download\demo\MarkDown\images\chapt3_img01_IDE_Installation.webp)  
+![](D:\Download\demo\MarkDown\images\112613.png)  
 
 
 
@@ -73,6 +73,6 @@ console.log(a)；
 [demo1]: demo1.md  
 [代码块]: demo2.md#代码块-demo)  
 [baidu_logo]: https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png  
-[屏幕截图]: images/112613.png  
-[屏幕截图1]: images/chapt3_img01_IDE_Installation.webp  
+[屏幕截图]: D:\Download\demo\MarkDown\images\images\112613.png  
+[屏幕截图1]: D:\Download\demo\MarkDown\images\images\chapt3_img01_IDE_Installation.webp  
 
